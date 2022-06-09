@@ -38,7 +38,7 @@ h1  {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 	margin: top;
-	background-color: #f20c0c;
+	background-color: #b70c0c;
 	color: white;
 	text-align: center;
 	border-left: 1px solid black;
@@ -56,12 +56,12 @@ p {
 }
 
 .beef {
-	background-color: #0ba30b;
+	background-color: #287a18;
 	color: white;
 }
 
 .sushi {
-	background-color: #ebef0b;
+	background-color: #e2d32b;
 	color: #4f4d4d;
 }
 
@@ -113,6 +113,6 @@ p {
 
 /****************Mobile View****************/
 
-@media (min-width: 275px) 
+@media (max-width: 767px) 
 
 
