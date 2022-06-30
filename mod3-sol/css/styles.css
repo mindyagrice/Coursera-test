@@ -1,9 +1,4 @@
-html {
-	display: none;
-}
-
 .navbar-brand h1 {
-	font-family: 'Oxygen', sans-serif;
 	font-family: 'Ubuntu', sans-serif;
 	color: hotpink;
 }
