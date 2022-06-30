@@ -1,16 +1,4 @@
-.navbar-default {
-    background-color: A30E03;
-    border-color: #000;
-}
-.navbar-brand h1 {
-	font-family: 'Ubuntu', sans-serif;
-	color: #hotpink;
-    font-size: 1.5em;
-    font-weight: bold;
-    margin-top: 0;
-    margin-bottom: 0;
-    line-height: .75;
-}
-h3 {
-    text-align: center;
+body {
+    color: black;
+    background-color: hotpink;
 }
