@@ -3,6 +3,10 @@ body {
     background-color: hotpink;
 }
 
+div #name .row {
+   background-color: yellow; 
+}
+
 a #store-name {
     color: white;
 }
